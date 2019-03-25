@@ -1,2 +1,2 @@
-# guthub-demo
+# github-demo
 Demo Repository for Git workflow
